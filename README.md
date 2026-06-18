@@ -1,5 +1,7 @@
 # DataStreamX: Local Data Pipeline Demo
 
+<img width="2864" height="794" alt="image" src="https://github.com/user-attachments/assets/370fa7e3-9ff6-4d8d-bcee-586b8c333736" />
+
 This project provides a simplified, enterprise-grade data pipeline architecture designed to demonstrate how modern data systems—like those used by Apache Kafka and Snowflake—handle ingestion, real-time transformation, and analytical storage.
 
 ## Architecture Overview
